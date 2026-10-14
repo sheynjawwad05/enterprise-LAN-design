@@ -1,3 +1,7 @@
+
+## Network Topology
+
+![Enterprise LAN Network Topology](topology.png)
 # Enterprise LAN Design with Inter-VLAN Routing and EtherChannel
 
 ## Project Overview
