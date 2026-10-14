@@ -29,6 +29,11 @@ This project demonstrates an enterprise LAN designed using Cisco Packet Tracer. 
 - Basic router password protection
 
 ## Testing and Verification
+### EtherChannel Verification
+
+The following output confirms that both LACP EtherChannels are active and all four member interfaces are bundled successfully.
+![EtherChannel Summary](etherchannel-summary.png)
+
 - DHCP address assignment verified
 - Inter-VLAN connectivity tested
 - Communication between PCs tested successfully
