@@ -5,7 +5,7 @@
 ## Project Overview
 This project demonstrates an enterprise LAN designed using Cisco Packet Tracer. It includes VLAN segmentation, inter-VLAN routing, DHCP, VTP, LACP EtherChannel, and basic network security.
 
-## Network Topology
+## Network Devices
 - 1 Cisco 2911 Router
 - 3 Switches
 - 6 PCs
