@@ -1,8 +1,6 @@
-
-## Network Topology
-
-![Enterprise LAN Network Topology](topology.png)
 # Enterprise LAN Design with Inter-VLAN Routing and EtherChannel
+## Network Topology
+![Enterprise LAN Network Topology](topology.png)
 
 ## Project Overview
 This project demonstrates an enterprise LAN designed using Cisco Packet Tracer. It includes VLAN segmentation, inter-VLAN routing, DHCP, VTP, LACP EtherChannel, and basic network security.
